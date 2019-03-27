@@ -10,7 +10,7 @@
 _อักษรตัวเอียง_  
 __อักษรตัวหนา__  
 **อักษรตัวหนา**  
-`เน้นสีข้อความ`
+`เน้นข้อความ(เครื่องหมาย Grave Accent)`
 
 ---
 
@@ -29,13 +29,25 @@ __อักษรตัวหนา__
   4. ส้ม
 
 ---
+## **ตาราง**
+
+Student_ID | Fname | Lname | Year
+---|---|---|---|---
+59110999 | กิตติโรจน์ | เผือกผ่อง | 3
+59116426 | ประสิทธิ์ | แซ่อุ่ย  | 3
+60141009 | ชลลดา | แดงดี | 2
+60144102 | ศลินดา | ขันติทอง | 2
+
+
+
+
 
 ---
 
 ประกาศ Hyperlink [link](https://www.google.com).
 
 ---
-![Image](https://freeiconshop.com/wp-content/uploads/edd/bulb-curvy-flat.png "ใส่ชื่อให้รูป")
+![Image](https://freeiconshop.com/wp-content/uploads/edd/bulb-curvy-flat.png "icon")
 
 > Markdown uses email-style > characters for blockquoting.
 
